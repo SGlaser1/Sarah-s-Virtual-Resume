@@ -1,0 +1,17 @@
+#name{
+	text-align: center;
+	color: white;
+}
+
+#future{
+	text-align: center;
+	color: white;
+}
+
+html{
+	background-image: url(background.jpeg);
+	max-width: 100%;
+}
+p {
+	text-align: center;
+}
