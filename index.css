@@ -53,9 +53,9 @@ nav ul li a {
 	display: block;
 	font-family: arial;
 	color: #222;
-	font-size: 14px;
+	font-size: 200%;
 	float: center;
-	padding: 22px 14px; 
+	padding: 20px 20px 20px 20px; 
 	text-decoration: none;
 }
 
