@@ -1,0 +1,20 @@
+html{
+background-image: url("brick.jpg");
+background-size: auto;
+}
+#nav ul.Home{
+	font-family:"Source Sans Pro", Heletica, sans-serif;
+	background-color: white;
+	background-position: relative;
+	display: block;
+	position: relative;
+	width: 80px;
+	height: 20px;
+}
+	
+.things-to-know {
+	background-image: url("orange.jpg");
+	margin-bottom:     0px;
+	height:            120px;
+} 
+
