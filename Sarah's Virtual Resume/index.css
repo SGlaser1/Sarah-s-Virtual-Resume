@@ -1,0 +1,37 @@
+#name{
+	text-align: center;
+	color: white;
+}
+
+#future{
+	text-align: center;
+	color: white;
+}
+
+html{
+background-image: url(city.jpeg),linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("brick.jpg");
+background-size: auto,	auto,	100% auto;
+background-position: center,	center,	top center;
+background-repeat: no-repeat,	no-repeat,	no-repeat;
+background-attachment: fixed,	fixed,	fixed;
+}
+p {
+	text-align: center;
+}
+ 
+ nav ul li {
+background-color: #fff;
+padding: 15px;
+float: left;
+list-style: none;
+position: relative;
+text-decoration: none;
+width: 250px;
+}
+
+
+
+
+
+
+
