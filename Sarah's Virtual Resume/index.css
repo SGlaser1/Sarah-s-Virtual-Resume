@@ -29,9 +29,30 @@ text-decoration: none;
 width: 250px;
 }
 
+{
+	body { 
+  background-color: #ffffff;
+  font-family:      bubbler one; 
+  font-size:        small;
+  margin:           0px;
+}
+header{
+  text-align:  center;
+
+}
 
 
 
+article address.author {
+  font-weight: bold;
+  font-style: normal;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin: 5px 0px;
+}
 
-
-
+/*
+article address.author:before {
+  "Author: ""
+}
+*/
